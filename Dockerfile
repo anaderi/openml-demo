@@ -1,3 +1,3 @@
-FROM: jupyter/singleuser:latest
+FROM jupyter/singleuser:latest
 
-RUN pip install pandas
+#RUN pip install pandas
